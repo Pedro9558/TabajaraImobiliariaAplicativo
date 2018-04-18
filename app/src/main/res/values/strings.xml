@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tabajara Imobiliaria v0.01</string>
+    <string name="titulo">Tabajara Imobiliaria v0.01</string>
+    <string name="descricao">Seu imóvel está aqui!</string>
+    <string name="codigo">Código:</string>
+    <string name="tipo">Tipo imóvel:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="area">Área:</string>
+    <string name="quartos">Quartos:</string>
+    <string name="banheiros">Banheiros:</string>
+    <string name="garagens">Garagens:</string>
+    <string name="preco">Preço imóvel:</string>
+    <string name="bPrimeiro">Primeiro</string>
+    <string name="bUltimo">Último</string>
+    <string name="bAnterior">Anterior</string>
+    <string name="bProximo">Próximo</string>
+
+    <string name="hCodigo">Código</string>
+    <string name="hTipo">Tipo do Imóvel</string>
+</resources>
